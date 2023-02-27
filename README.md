@@ -12,6 +12,7 @@ Features:
 
 
 Note : Data doesnot persist
+![UI](Capture.PNG)
 
 [Live link](https://euphonious-florentine-b24b80.netlify.app/)
 
